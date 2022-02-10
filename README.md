@@ -11,6 +11,8 @@ The game begins with two empty boards and a prompt for the user to place his/her
 - 'A' - 'J' for what row they would like their ship to start in
 - '0'-'9' for what column they would like to place their ship in
 
-![image](https://user-images.githubusercontent.com/90358959/153492955-18e29f33-61ea-48dd-b8d1-a735778a7d32.png)
+'V' 'A' and '6' were entered in the case below
+
+![image](https://user-images.githubusercontent.com/90358959/153493659-b0dc7df4-64ff-4259-9361-107ebbb7855e.png)
 
 
